@@ -47,5 +47,5 @@ To run this project locally:
 
 
 ## Dataset Information
-    Source: 1994 Census database.
-    Features: Includes demographic attributes like race, age, education, income, and work hours.
+    Source: Freecodecamp.
+    Features: Includes attributes like Systolic blood pressure, Diastolic blood pressure, Cholesterol, Glucose, Alcohol intake, Physical activity, Presence or absence of cardiovascular disease, and Smoking.
