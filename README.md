@@ -48,7 +48,7 @@ To explore a project:
 
 ## About Me
 
-I’m a passionate data science enthusiast dedicated to solving problems and unlocking the potential of data. This portfolio reflects my journey in learning, applying, and growing as a data science professional.
+I’m a passionate data science professional dedicated to solving problems and unlocking the potential of data. This portfolio reflects my journey in learning, applying, and growing as a data science professional.
 
 ## Contact
 
