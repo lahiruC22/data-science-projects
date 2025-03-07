@@ -16,8 +16,8 @@ Welcome to my portfolio of data science projects! This repository highlights var
 4. [**Sea Level Predictor**](https://github.com/lahiruC22/data-science-projects/tree/main/sea-level-predictor)  
    *Prediction of future sea levels based on historical data.*
 
-5. [**R Projects**](https://github.com/lahiruC22/data-science-projects/tree/main/r-projects)  
-   *A collection of data analysis projects implemented in R.*
+5. [**Google Trends Analysis**](https://github.com/lahiruC22/data-science-projects/tree/main/google-trends-regression-anaysis)  
+   *"Hypothetical Case Study: Selecting the Most Suitable Name for the Software Product – ‘Analytics Workbench’ or ‘Data Scientist Workbench’"*
 
 ## Purpose
 
