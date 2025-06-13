@@ -18,6 +18,9 @@ Welcome to my portfolio of data science projects! This repository highlights var
 
 5. [**Google Trends Analysis**](https://github.com/lahiruC22/data-science-projects/tree/main/google-trends-regression-anaysis)  
    *"Hypothetical Case Study: Selecting the Most Suitable Name for the Software Product – ‘Analytics Workbench’ or ‘Data Scientist Workbench’"*
+   
+6. [**Email Classification using LLM**](https://github.com/lahiruC22/data-science-projects/tree/main/email-classification-llm)
+   *Classify emails into three different categories using llama*
 
 ## Purpose
 
